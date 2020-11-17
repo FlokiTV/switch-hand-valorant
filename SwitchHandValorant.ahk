@@ -1,5 +1,5 @@
-﻿; This script was created using Pulover's Macro Creator
-; www.macrocreator.com
+; This script was created by FLK
+; youtube.com/FlokiTVBR
 
 #NoEnv
 SetWorkingDir %A_ScriptDir%
