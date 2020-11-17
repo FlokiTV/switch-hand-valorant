@@ -6,3 +6,6 @@
 
 How to setup:
 https://youtu.be/8_bcst3tCtI
+
+### Download release
+https://github.com/wuster-me/switch-hand-valorant/releases/download/0.0.1/switch-hand-FLK.exe
